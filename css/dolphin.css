@@ -23,7 +23,7 @@ html {
 (max-width: 1090px) {
 
   #dolphin {
-    top: 100px;
+    top: 30px;
     right: 0px;
     transform: rotate(1turn);
   }
